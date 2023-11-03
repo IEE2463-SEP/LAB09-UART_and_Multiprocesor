@@ -15,7 +15,7 @@ En este laboratorio aprenderemos a conectar por medio de UART nuestro procesador
 3. Previo al Quiz09, realizado en los primeros 10-15min de cada laboratorio, debes estudiar personalizadamente:
 
 * Ver y ejecutar el video del [laboratorio 09](https://youtu.be/2tJQ9iTTWtY).
-* Contenidos de la [Ayudantia 09](https://studio.youtube.com/video/3dn__gzqBcg/edit)
+* Contenidos de la [Ayudantia 08](https://youtu.be/HEcVxrbAIDQ)
 * [Lectura09-10](https://github.com/IEE2463-SEP/Lecturas) IEE2463. Contenidos de protocolos de comunicacion I2C, SPI y CAN.
   
 4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
