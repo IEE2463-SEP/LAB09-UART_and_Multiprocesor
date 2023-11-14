@@ -18,7 +18,7 @@ En este laboratorio aprenderemos a conectar por medio de UART nuestro procesador
 * Contenidos de la [Ayudantia 08](https://youtu.be/HEcVxrbAIDQ)
 * [Lectura09-10](https://github.com/IEE2463-SEP/Lecturas) IEE2463. Contenidos de protocolos de comunicacion I2C, SPI y CAN.
   
-4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB09-UART_and_Multiprocesor/blob/main/LAB09_UART.pptx) desarrollada en el del Laboratorio 
 
 
 
